@@ -1,0 +1,12 @@
+robustness_adversarial_toolbox
+matplotlib==3.9.0
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+protobuf==3.20.3
+scikit_learn==1.4.2
+seaborn==0.13.2
+scikit-image
+tensorflow==2.16.1
+tqdm==4.66.2
+keras==3.3.3

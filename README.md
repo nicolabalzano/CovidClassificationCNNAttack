@@ -7,7 +7,9 @@ The neural network model under investigation has been trained on a dataset compr
 To use this code you have to download the dataset https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset and structure the code directory as follow:
 .
 └── Datasets/
+
     ├── Train/
+    
     └── Test/
 
 ## Dataset & Techniques Used

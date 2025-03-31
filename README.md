@@ -4,12 +4,10 @@ This study explores the impact of five different adversarial attacks on a neural
 
 The neural network model under investigation has been trained on a dataset comprising CT scan images of lungs, with labels indicating whether the scan is COVID-19 positive or negative. The goal of the study is to assess the robustness of the model against adversarial attacks and to evaluate the effectiveness of various attack strategies in compromising the model's performance.
 
-To use this code you have to download the dataset https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset and structure the code directory as follow:
-.
-└── Datasets/
-
-    ├── Train/
-    
+To use this code you have to download the dataset https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset and structure the code directory as follow:<br>
+.<br>
+└── Datasets/<br>
+    ├── Train/<br>
     └── Test/
 
 ## Dataset & Techniques Used
